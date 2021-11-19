@@ -1,0 +1,6 @@
+{
+    "skipJsErrors": true,
+    "browsers": "chrome",
+    "selectorTimeout": "2000",
+    "assertionTimeout":"2000"
+}
