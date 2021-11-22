@@ -4,30 +4,8 @@ Todoist is the productivity tool you need to get work and life organized. Collec
 [![Todoist](https://get.todoist.help/hc/article_attachments/360011665940/Web___Inbox.png "Todoist")](https://get.todoist.help/hc/article_attachments/360011665940/Web___Inbox.png "Todoist")
 
 ## Project Structure
-.
-├── **QA-Automation-Bootcamp-Feedback**
-│   ├── **page_Object_Model \**  *Main Page Object Model folder*
-│   │   ├── **data \**  *Data providers*
-│   │   │   └── `constants.js`
-│   │   │   └── `roles.js`
-│   │   ├── **pages \ ** *All the pages*
-│   │   │   └── `basePage.js`
-│   │   │   └── `loginPage.js`
-│   │   │   └── `projectPage.js`
-│   │   │   └── `todayPage.js`
-│   │   │   └── `todoistPage.js`
-│   │   ├── **tests \ ** *test files are located here*
-│   │   │   └── `loginTest.js`
-│   │   │   └── `projectTest.js`
-│   │   │   └── `taskTest.js`
-│   ├── **reports \  ** *a documented folder with the execution of the tests*
-│   ├──** target \**  a* documented folder with the reports in the integration with jenkins*
-└── **.env\**  *environment variable file*
-└── **.eslintrc**
-└── **.testcaferc**
-└──** .package-lock**
-└── **.package**
-└── **README.md \ ** *The main readme*
+
+![Screenshot](screenshot.png)
 
 ## Goals
 
