@@ -6,6 +6,8 @@ Todoist is the productivity tool you need to get work and life organized. Collec
 ## Project Structure
 .
 ├── **QA-Automation-Bootcamp-Feedback**
+
+
 │   ├── **page_Object_Model \**  *Main Page Object Model folder*
 │   │   ├── **data \**  *Data providers*
 │   │   │   └── `constants.js`
